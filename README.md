@@ -46,7 +46,10 @@
  
  ### Can you break these counter?
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=tuhinmallick)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tuhinmallick&&style=flat-square" align="center" />
+</div>
  
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
