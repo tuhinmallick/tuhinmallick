@@ -1,6 +1,8 @@
  
  
- ### Hello World!  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
  <div align="center">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/>
  </div>
