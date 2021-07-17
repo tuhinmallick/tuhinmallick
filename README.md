@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an synoym  of "Frost"
+  - ⚡ Fun fact:  Banging your head against a wall for one hour burns 150 calories.
   
   #### 📫 How to reach me:
   
