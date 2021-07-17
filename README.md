@@ -36,7 +36,9 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
- 
+ ### Can you break these counter?
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=tuhinmallick)
  
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
