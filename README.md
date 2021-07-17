@@ -1,21 +1,24 @@
  
- <div align="center">
+ 
  ### Hello World!  
+ <div align="center">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/>
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
  
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
+  </div>
   - 🔭 I’m currently studying at FAU Erlangen-Nürnberg
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact:  Banging your head against a wall for one hour burns 150 calories.
   
-  #### 📫 How to reach me:
   
+  
+  #### 📫 How to reach me:
+  <div align="center">
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Its_Me_Ronnie_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tuhinmallick/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/tmallick96/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/__horcrux._/)  &nbsp; <a href="mailto:tuhin.mllk@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
