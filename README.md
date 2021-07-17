@@ -1,7 +1,7 @@
  
  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10% />
 </div>  
  <div align="center">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/>
