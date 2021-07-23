@@ -44,7 +44,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=tuhinmallick&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=tuhinmallick&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 ---
 
   <div align="center">
