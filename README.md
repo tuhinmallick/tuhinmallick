@@ -19,7 +19,7 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m currently studying Masters at FAU Erlangen-Nürnberg
-  - 🌱 I’m currently learning Artificial Intelligence and Robotics
+  - 🌱 I’m currently master thesis in Self supervised anomaly detection 
   - 💬 Ask me about table tennis and Tintin comics
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact:  Banging your head against a wall for one hour burns 150 calories.
