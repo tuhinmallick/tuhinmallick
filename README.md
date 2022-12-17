@@ -52,9 +52,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinmallick&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=tuhinmallick&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=tuhinmallick&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  
 
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=tuhinmallick&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=tuhinmallick&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 ---
