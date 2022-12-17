@@ -62,7 +62,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <div align="center">
-### 😂 Random Dev Meme
+###  Random Dev Meme 😂
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
