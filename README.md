@@ -59,8 +59,11 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <div align="center">
  
+                     
  ### Can you break these counter?
 
 
