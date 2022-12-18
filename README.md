@@ -4,7 +4,7 @@
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10% /> -->
 </div>  
  <div align="center">
- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/>
+<!--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> -->
  </div>
  
 
