@@ -26,7 +26,29 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact:  Banging your head against a wall for one hour burns 150 calories.
   
-  
+<h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🛠 Language/Tools</b></td>
+      <td><b>⏰Timeline</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+	    <td><a href="https://github.com/kd444/VUE_Movie_Search_App"><b>Movie Search</b></a></td>
+      <td><b>VUE, JS, HTML</b></td>
+      <td><b>2021</b></td>
+  </tr>
+ <tr>
+	    <td><a href="https://github.com/kd444/MERN_E-Commerce_App"><b>MERN_E-Commerce_App
+</b></a></td>
+      <td><b>HTML, CSS, JS, Bootstrap</b></td>
+      <td><b>2022</b></td>
+  </tr>
+  </tbody>	 
+</table>
   
   #### 📫 How to reach me:
   
