@@ -20,7 +20,7 @@
 
 # 💫 About Me:
 
-  - 🔭 I’m currently studying Masters at FAU Erlangen-Nürnberg
+  - 🔭 I’m currently doing double masters at FAU Erlangen-Nürnberg, Germany and USI, Lugano, Switzerland 
   - 🌱 I’m currently master thesis in Self supervised anomaly detection 
   - 💬 Ask me about table tennis and Tintin comics
   - 😄 Pronouns: He / Him
