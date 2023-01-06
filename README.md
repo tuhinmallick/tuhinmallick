@@ -71,7 +71,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
 # 📊 GitHub Stats:
-	
+![Metrics](https://metrics.lecoq.io/tuhinmallick)	
 ![](https://github-readme-stats.vercel.app/api?username=tuhinmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinmallick&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
