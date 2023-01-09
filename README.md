@@ -114,8 +114,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 # 📊 GitHub Stats:
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-	
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+	 -->
 ![](https://github-readme-stats.vercel.app/api?username=tuhinmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinmallick&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinmallick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
